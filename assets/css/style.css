@@ -1336,6 +1336,7 @@ margin: 50px 10px;
     width: 56px;
     height: 56px;
     margin-right: 20px;
+    cursor: pointer;
 }
 
 .notification-img {
